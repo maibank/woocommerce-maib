@@ -18,7 +18,9 @@
         "source": "https://github.com/alexminza/wc-moldovaagroindbank"
     },
     "require": {
-        "php": ">=7.0",
-        "maib/maibapi": "^2.0"
+        "php": ">=7.1",
+        "maib/maibapi": "^2.0",
+        "monolog/monolog": "2.7",
+        "psr/log": "^1.0"
     }
 }
