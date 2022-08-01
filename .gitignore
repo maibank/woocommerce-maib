@@ -10,3 +10,4 @@ docs/_build
 logs/
 docs/*.pyc
 .DS_STORE
+.ddev/
