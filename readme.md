@@ -1,3 +1,3 @@
-WooCommerce maib Moldova Payment Gateway
+WooCommerce Payment Gateway - maib Moldova
 ---------------------------------------------
 
