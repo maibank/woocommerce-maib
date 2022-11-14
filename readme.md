@@ -18,7 +18,7 @@ Advanced setting
 ----------------
 For test mode use *.pem* certificate from this repository (test-certificate.pem/test-key.pem).
 
-For live mode use openssl to extract *.pem* keys from *.pfx* file and password provided by bank:
+For live mode use openssl to extract *.pem* keys from *.pfx* file and password provided by **maib**:
         
         # Public key chain:
           openssl pkcs12 -in certname.pfx -nokeys -out cert.pem
