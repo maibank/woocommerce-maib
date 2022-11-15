@@ -8,11 +8,11 @@ https://wordpress.org/plugins/wc-moldovaagroindbank/
 -------------
 
 
-[RO] Ghidul de testare și certificatul de testare le găsiți în acest repozitoriu.
+[RO] Ghidul de testare și certificatul de testare (0149583.pfx) le găsiți în acest repozitoriu.
 
-[RU] Руководство по тестированию и тестовый сертификат можете найти в этом репозитории.
+[RU] Руководство по тестированию и тестовый сертификат (0149583.pfx) можете найти в этом репозитории.
 
-[EN] The testing guide and test certificate you can find in this repository.
+[EN] The testing guide and test certificate (0149583.pfx) you can find in this repository.
 
 Advanced setting
 ----------------
