@@ -14,7 +14,7 @@ https://wordpress.org/plugins/wc-moldovaagroindbank/
 
 [EN] The testing guide and test certificate (0149583.pfx) you can find in this repository.
 
-Advanced setting
+Advanced settings
 ----------------
 For test mode use *.pem* certificate from this repository (test-certificate.pem/test-key.pem).
 
