@@ -22,5 +22,5 @@ For live mode use openssl to extract *.pem* keys from *.pfx* file and password p
         
         # Public key chain:
           openssl pkcs12 -in certname.pfx -nokeys -out cert.pem
-        # The private key with password:
-          openssl pkcs12 -in certname.pfx -nocerts -out key.pem
+        # The private key without a password (decrypted):
+          openssl pkcs12 -in certname.pfx -nocerts -nodes -out key.pem
